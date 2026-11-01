@@ -1,0 +1,712 @@
+{
+  "verified_at": "2026-11-01T12:58:52.388108+00:00",
+  "scope": "Dependências diretas runtime/dev e fontes locais. Cortejo inclui quatro dependências runtime de Sunder para atribuição do bundle. Não é auditoria exaustiva transitiva.",
+  "packages": [
+    {
+      "package": "clsx",
+      "version": "2.1.1",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": {
+        "name": "Luke Edwards",
+        "email": "luke.edwards05@gmail.com",
+        "url": "https://lukeed.com"
+      },
+      "repository": "lukeed/clsx",
+      "files": [
+        {
+          "path": "docs/third-party/clsx/license",
+          "source": "node_modules/clsx/license",
+          "sha256": "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97",
+          "bytes": 1104
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "drizzle-orm",
+      "version": "0.45.2",
+      "scope": "direct",
+      "declared_license": "Apache-2.0",
+      "author": "Drizzle Team",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drizzle-team/drizzle-orm.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/drizzle-orm/package-metadata.json",
+          "source": "node_modules/drizzle-orm/package.json",
+          "sha256": "9fd30ce718965c19178ac6936462b77017f1fffe56865124d0cfe55850de09ff",
+          "bytes": 177277,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "next",
+      "version": "16.3.4",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": "vercel/next.js",
+      "files": [
+        {
+          "path": "docs/third-party/next/license.md",
+          "source": "node_modules/next/license.md",
+          "sha256": "ee765244e2d59f5234d474f62e0766fa0c8b99af967fdd4c0cb8dcb0c76ea224",
+          "bytes": 1079
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "react",
+      "version": "19.2.6",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/react/LICENSE",
+          "source": "node_modules/react/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "bytes": 1088
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "react-dom",
+      "version": "19.2.6",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react-dom"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/react-dom/LICENSE",
+          "source": "node_modules/react-dom/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "bytes": 1088
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "tailwind-merge",
+      "version": "3.6.0",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Dany Castillo",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dcastil/tailwind-merge.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/tailwind-merge/LICENSE.md",
+          "source": "node_modules/tailwind-merge/LICENSE.md",
+          "sha256": "d4c70c7ce38cea8778f0aed3fc0bef0a9dbd27f13bd8b6773cbd6d37941971e5",
+          "bytes": 1070
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "zod",
+      "version": "3.25.76",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Colin McDonnell <zod@colinhacks.com>",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/colinhacks/zod.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/zod/LICENSE",
+          "source": "node_modules/zod/LICENSE",
+          "sha256": "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8",
+          "bytes": 1072
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "bobril",
+      "version": "21.7.1",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Boris Letocha",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Bobris/Bobril.git",
+        "directory": "package"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/bobril/LICENSE.md",
+          "source": "node_modules/bobril/LICENSE.md",
+          "sha256": "526b1057b48d3764c60b800827301c0338f93944868f18f52dd89f20444406b3",
+          "bytes": 1100
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "worktop",
+      "version": "0.7.3",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": {
+        "name": "Luke Edwards",
+        "email": "luke.edwards05@gmail.com",
+        "url": "https://lukeed.com"
+      },
+      "repository": "lukeed/worktop",
+      "files": [
+        {
+          "path": "docs/third-party/worktop/license",
+          "source": "node_modules/worktop/license",
+          "sha256": "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97",
+          "bytes": 1104
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@sinclair/typebox",
+      "version": "0.34.52",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "sinclairzx81",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/sinclairzx81/sinclair-typebox"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/sinclair--typebox/license",
+          "source": "node_modules/@sinclair/typebox/license",
+          "sha256": "a62f9f2edd97ed0d92f0ef93584dd109a7d34299795abc7780b8b5a85ff00671",
+          "bytes": 1164
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@cloudflare/vite-plugin",
+      "version": "1.37.1",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cloudflare/workers-sdk.git",
+        "directory": "packages/vite-plugin-cloudflare"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/cloudflare--vite-plugin/package-metadata.json",
+          "source": "node_modules/@cloudflare/vite-plugin/package.json",
+          "sha256": "1b70071cd6a59ef353716d16bc136ab41e87078d5a21d870a997aa45483797ce",
+          "bytes": 2237,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "@cloudflare/workers-types",
+      "version": "4.20260515.1",
+      "scope": "direct",
+      "declared_license": "MIT OR Apache-2.0",
+      "author": "Cloudflare Workers DevProd Team <workers-devprod@cloudflare.com> (https://workers.cloudflare.com)",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cloudflare/workerd"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/cloudflare--workers-types/package-metadata.json",
+          "source": "node_modules/@cloudflare/workers-types/package.json",
+          "sha256": "91185b79bb16d1ececac1ac2f17c93cb8c9d0f0a1eb83b39878441a537c06f7b",
+          "bytes": 373,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "@tailwindcss/postcss",
+      "version": "4.2.1",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/tailwindlabs/tailwindcss.git",
+        "directory": "packages/@tailwindcss-postcss"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/tailwindcss--postcss/LICENSE",
+          "source": "node_modules/@tailwindcss/postcss/LICENSE",
+          "sha256": "60e0b68c0f35c078eef3a5d29419d0b03ff84ec1df9c3f9d6e39a519a5ae7985",
+          "bytes": 1071
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@types/node",
+      "version": "22.19.19",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/node"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/types--node/LICENSE",
+          "source": "node_modules/@types/node/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "bytes": 1141
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@types/react",
+      "version": "19.2.14",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/types--react/LICENSE",
+          "source": "node_modules/@types/react/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "bytes": 1141
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@types/react-dom",
+      "version": "19.2.3",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react-dom"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/types--react-dom/LICENSE",
+          "source": "node_modules/@types/react-dom/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "bytes": 1141
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@vitejs/plugin-react",
+      "version": "6.0.2",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Evan You",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vitejs/vite-plugin-react.git",
+        "directory": "packages/plugin-react"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/vitejs--plugin-react/LICENSE",
+          "source": "node_modules/@vitejs/plugin-react/LICENSE",
+          "sha256": "29b68325fe026047d13e187b44c33b2acacf7dc647dec4583702e59f235e13b5",
+          "bytes": 1103
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@vitejs/plugin-rsc",
+      "version": "0.5.26",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vitejs/vite-plugin-react.git",
+        "directory": "packages/plugin-rsc"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/vitejs--plugin-rsc/package-metadata.json",
+          "source": "node_modules/@vitejs/plugin-rsc/package.json",
+          "sha256": "e12b4bf4c33982738d1b5bdc68fa7bc496f26253f64a79d5f0c207a93ca900c5",
+          "bytes": 2474,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "drizzle-kit",
+      "version": "0.31.10",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Drizzle Team",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drizzle-team/drizzle-orm.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/drizzle-kit/package-metadata.json",
+          "source": "node_modules/drizzle-kit/package.json",
+          "sha256": "c258e6134d938d6d718448274fd3e89ed9c05aeca7bb6bc7df22c89d943615c8",
+          "bytes": 3683,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "eslint",
+      "version": "9.39.4",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Nicholas C. Zakas <nicholas+npm@nczconsulting.com>",
+      "repository": "eslint/eslint",
+      "files": [
+        {
+          "path": "docs/third-party/eslint/LICENSE",
+          "source": "node_modules/eslint/LICENSE",
+          "sha256": "3b6be04f862a077a4b97929dbf247299360824d9365f8603c263769303ace18c",
+          "bytes": 1094
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "eslint-config-next",
+      "version": "16.3.4",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "url": "vercel/next.js",
+        "directory": "packages/eslint-config-next"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/eslint-config-next/package-metadata.json",
+          "source": "node_modules/eslint-config-next/package.json",
+          "sha256": "08a71f4b5fd988e7f64e7f9d82ade69e6180785da2a6ed9655bffd912f124d03",
+          "bytes": 1734,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "json-rpc-2.0",
+      "version": "1.7.1",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Shogo Wada",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shogowada/json-rpc-2.0.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/json-rpc-2.0/LICENSE",
+          "source": "node_modules/json-rpc-2.0/LICENSE",
+          "sha256": "4b8e84514706c27a4851181e8f2bd43cfd6d7ac886c3dc109e8a9dc330cd4488",
+          "bytes": 1067
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "raw-body",
+      "version": "3.0.2",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+      "repository": "stream-utils/raw-body",
+      "files": [
+        {
+          "path": "docs/third-party/raw-body/LICENSE",
+          "source": "node_modules/raw-body/LICENSE",
+          "sha256": "37876d7de8bdf5e5b9b58a697ebc34044624e493e6f49eff5c938e5226dcac6b",
+          "bytes": 1181
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "react-server-dom-webpack",
+      "version": "19.2.6",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react-server-dom-webpack"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/react-server-dom-webpack/LICENSE",
+          "source": "node_modules/react-server-dom-webpack/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "bytes": 1088
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "tailwindcss",
+      "version": "4.2.1",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/tailwindlabs/tailwindcss.git",
+        "directory": "packages/tailwindcss"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/tailwindcss/LICENSE",
+          "source": "node_modules/tailwindcss/LICENSE",
+          "sha256": "60e0b68c0f35c078eef3a5d29419d0b03ff84ec1df9c3f9d6e39a519a5ae7985",
+          "bytes": 1071
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "tw-animate-css",
+      "version": "1.4.0",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": {
+        "name": "Luca Bosin",
+        "url": "https://github.com/Wombosvideo"
+      },
+      "repository": "Wombosvideo/tw-animate-css",
+      "files": [
+        {
+          "path": "docs/third-party/tw-animate-css/LICENSE",
+          "source": "node_modules/tw-animate-css/LICENSE",
+          "sha256": "039184dfa0a822397b3f45a435b5b1e538721587fbade96b9fa80f86cb354109",
+          "bytes": 1068
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "typescript",
+      "version": "5.9.3",
+      "scope": "direct",
+      "declared_license": "Apache-2.0",
+      "author": "Microsoft Corp.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/microsoft/TypeScript.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/typescript/LICENSE.txt",
+          "source": "node_modules/typescript/LICENSE.txt",
+          "sha256": "a7d00bfd54525bc694b6e32f64c7ebcf5e6b7ae3657be5cc12767bce74654a47",
+          "bytes": 9197
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "vinext",
+      "version": "1.0.0-beta.5",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": null,
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cloudflare/vinext.git"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/vinext/LICENSE",
+          "source": "node_modules/vinext/LICENSE",
+          "sha256": "19a7b85046eb77c8ab308c68569abbbb59235814297b9c95dc90480f71ec7198",
+          "bytes": 1073
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "vite",
+      "version": "8.0.13",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "Evan You",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vitejs/vite.git",
+        "directory": "packages/vite"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/vite/LICENSE.md",
+          "source": "node_modules/vite/LICENSE.md",
+          "sha256": "40501d82eb20f60d031aaaa3291a103d72551ebd49e11e73ba94ea34589e7bdd",
+          "bytes": 108466
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "wrangler",
+      "version": "4.92.0",
+      "scope": "direct",
+      "declared_license": "MIT OR Apache-2.0",
+      "author": "wrangler@cloudflare.com",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cloudflare/workers-sdk.git",
+        "directory": "packages/wrangler"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/wrangler/package-metadata.json",
+          "source": "node_modules/wrangler/package.json",
+          "sha256": "b659402d435053012c1843c226a701964abbeb4ce8a9a560d57c5be0ced4916d",
+          "bytes": 6002,
+          "kind": "Original metadata; not a substitute for license text"
+        }
+      ],
+      "license_text_available": false,
+      "note": "Pacote instalado omite texto de licença na raiz. Metadados originais preservados; declaração não substitui texto integral."
+    },
+    {
+      "package": "prettier",
+      "version": "3.9.10",
+      "scope": "direct",
+      "declared_license": "MIT",
+      "author": "James Long",
+      "repository": "prettier/prettier",
+      "files": [
+        {
+          "path": "docs/third-party/prettier/LICENSE",
+          "source": "node_modules/prettier/LICENSE",
+          "sha256": "b0f2417199889f1c0d28ec4e0244eacf1a15de5819d61f641dd7d8f45153ac9c",
+          "bytes": 1065
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@fontsource-variable/manrope",
+      "version": "5.3.0",
+      "scope": "direct",
+      "declared_license": "OFL-1.1",
+      "author": "Google Inc.",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fontsource/font-files.git",
+        "directory": "fonts/variable/manrope"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/fontsource-variable--manrope/LICENSE",
+          "source": "node_modules/@fontsource-variable/manrope/LICENSE",
+          "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30",
+          "bytes": 4383
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    },
+    {
+      "package": "@fontsource/dm-mono",
+      "version": "5.3.0",
+      "scope": "direct",
+      "declared_license": "OFL-1.1",
+      "author": "Google Inc.",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fontsource/font-files.git",
+        "directory": "fonts/google/dm-mono"
+      },
+      "files": [
+        {
+          "path": "docs/third-party/fontsource--dm-mono/LICENSE",
+          "source": "node_modules/@fontsource/dm-mono/LICENSE",
+          "sha256": "d2766c396a8534cba53340f8af2037749b6a0a1dd3587348c917a70e779d2e32",
+          "bytes": 4937
+        }
+      ],
+      "license_text_available": true,
+      "note": "Textos copiados byte a byte do pacote instalado."
+    }
+  ]
+}

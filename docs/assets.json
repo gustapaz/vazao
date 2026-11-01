@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "file": "public/media/subject.webp",
+      "author": "Jakub Zerdzicki",
+      "source_url": "https://www.pexels.com/photo/industrial-factory-pipes-and-structures-33813584/",
+      "download_url": "https://images.pexels.com/photos/33813584/pexels-photo-33813584.jpeg",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "verified_at": "2026-11-01T12:36:12.836087+00:00",
+      "source_sha256": "209d2142bd53b23615ea363b666a251433574af43b8df664295176e77b7eb111",
+      "output_sha256": "cb3c128b740b6dc8ada8cdc0b272e87da811470195907361db4d2b3bd14cd653",
+      "source_dimensions": [
+        3000,
+        2000
+      ],
+      "width": 1200,
+      "height": 800,
+      "bytes": 173000,
+      "transformations": [
+        "EXIF orientation applied",
+        "RGB conversion",
+        "long edge resized to maximum 1200px",
+        "EXIF removed",
+        "WebP quality 85, method 6"
+      ],
+      "visual_review": "Inspeção visual da versão final: sem faces identificáveis, marcas visíveis ou dados pessoais legíveis. Recortes usados em Doca, Rubato e Fagulha para excluir marcas de equipamentos.",
+      "usage": "Imagem de ambientação em demonstração de portfólio; não é produto para revenda e não implica endosso."
+    }
+  ]
+}
