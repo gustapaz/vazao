@@ -53,3 +53,9 @@ CI instala pelo lockfile e executa testes, tipos, formatação e build. Capturas
 ## Licenças
 
 Código original [MIT](LICENSE), Gustavo Paz. [Fotografia real licenciada](docs/assets-license.md), [inventário e hashes](docs/assets.json), [dependências e fontes](docs/dependency-licenses.md), textos preservados em docs/third-party/. Não há músicas, marcas, personagens ou imagens de terceiros sem licença.
+
+## Demonstração verificada
+
+![Interface publicada](docs/screenshots/desktop.jpg)
+
+[VAZÃO — demo gratuita](https://vazao-gustapaz.starrylinen.chatgpt.site) · [Testes e evidências](docs/validation.md).

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "demo": "https://vazao-gustapaz.starrylinen.chatgpt.site",
+  "application_commit": "f4495f97d3e7779b5555c3ebdb86eae34dc53f6b",
+  "automated_tests": 20,
+  "public_smoke": "passed",
+  "browser_flow": "passed",
+  "responsive_widths": [
+    390,
+    768
+  ],
+  "export": {
+    "filename": "vazao.json",
+    "bytes": 1947,
+    "sha256": "70135ddd349010a1b227793ffcd8d0a2887951b14335195ab496c30e544cafd8",
+    "structure": "passed"
+  }
+}
